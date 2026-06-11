@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "message": "The from address does not match a verified Sender Identity. Mail cannot be sent until this error is resolved. Visit https://sendgrid.com/docs/for-developers/sending-email/sender-identity/ to see the Sender Identity requirements",
+      "field": "from",
+      "help": "https://sendgrid.com/docs/for-developers/sending-email/sender-identity/"
+    }
+  ]
+}

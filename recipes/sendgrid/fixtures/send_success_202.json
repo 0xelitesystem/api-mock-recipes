@@ -1,0 +1,9 @@
+{
+  "_note": "SendGrid returns HTTP 202 with empty body on success. Headers carry X-Message-Id. This fixture exists to document that fact; you do not need to send a JSON body when mocking a 202.",
+  "status_code": 202,
+  "headers_to_send": {
+    "X-Message-Id": "abc-123-test-message-id",
+    "Server": "nginx",
+    "Content-Length": "0"
+  }
+}

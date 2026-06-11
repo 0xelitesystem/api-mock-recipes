@@ -1,0 +1,44 @@
+{
+  "id": "18b1f5e1a2b3c4d5",
+  "threadId": "18b1f5e1a2b3c4d5",
+  "labelIds": ["INBOX", "UNREAD", "CATEGORY_PERSONAL"],
+  "snippet": "Hi, quick question about the report you sent last week...",
+  "historyId": "1234567",
+  "internalDate": "1700000000000",
+  "payload": {
+    "partId": "",
+    "mimeType": "multipart/alternative",
+    "filename": "",
+    "headers": [
+      {"name": "From", "value": "Alice Example <alice@example.com>"},
+      {"name": "To", "value": "you@example.com"},
+      {"name": "Subject", "value": "Quick question"},
+      {"name": "Date", "value": "Wed, 15 Nov 2023 10:00:00 +0000"},
+      {"name": "Message-ID", "value": "<test-message@example.com>"}
+    ],
+    "body": {"size": 0},
+    "parts": [
+      {
+        "partId": "0",
+        "mimeType": "text/plain",
+        "filename": "",
+        "headers": [{"name": "Content-Type", "value": "text/plain; charset=UTF-8"}],
+        "body": {
+          "size": 142,
+          "data": "SGksIHF1aWNrIHF1ZXN0aW9uIGFib3V0IHRoZSByZXBvcnQgeW91IHNlbnQgbGFzdCB3ZWVrLg=="
+        }
+      },
+      {
+        "partId": "1",
+        "mimeType": "text/html",
+        "filename": "",
+        "headers": [{"name": "Content-Type", "value": "text/html; charset=UTF-8"}],
+        "body": {
+          "size": 198,
+          "data": "PHA-SGksIHF1aWNrIHF1ZXN0aW9uIGFib3V0IHRoZSByZXBvcnQgeW91IHNlbnQgbGFzdCB3ZWVrLjwvcD4="
+        }
+      }
+    ]
+  },
+  "sizeEstimate": 4521
+}

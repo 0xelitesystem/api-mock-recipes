@@ -1,0 +1,25 @@
+{
+  "sid": "SMtest1234567890abcdef1234567890ab",
+  "account_sid": "ACtest1234567890abcdef1234567890abcdef",
+  "messaging_service_sid": null,
+  "from": "+15551234567",
+  "to": "+15559999999",
+  "body": "Hello from a test",
+  "status": "queued",
+  "date_created": "Wed, 15 Nov 2023 10:00:00 +0000",
+  "date_updated": "Wed, 15 Nov 2023 10:00:00 +0000",
+  "date_sent": null,
+  "direction": "outbound-api",
+  "num_segments": "1",
+  "num_media": "0",
+  "price": null,
+  "price_unit": "USD",
+  "error_code": null,
+  "error_message": null,
+  "api_version": "2010-04-01",
+  "subresource_uris": {
+    "media": "/2010-04-01/Accounts/ACtest1234567890abcdef1234567890abcdef/Messages/SMtest1234567890abcdef1234567890ab/Media.json",
+    "feedback": "/2010-04-01/Accounts/ACtest1234567890abcdef1234567890abcdef/Messages/SMtest1234567890abcdef1234567890ab/Feedback.json"
+  },
+  "uri": "/2010-04-01/Accounts/ACtest1234567890abcdef1234567890abcdef/Messages/SMtest1234567890abcdef1234567890ab.json"
+}

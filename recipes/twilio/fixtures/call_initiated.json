@@ -1,0 +1,33 @@
+{
+  "sid": "CAtest1234567890abcdef1234567890ab",
+  "account_sid": "ACtest1234567890abcdef1234567890abcdef",
+  "from": "+15551234567",
+  "from_formatted": "(555) 123-4567",
+  "to": "+15559999999",
+  "to_formatted": "(555) 999-9999",
+  "status": "queued",
+  "start_time": null,
+  "end_time": null,
+  "duration": null,
+  "price": null,
+  "price_unit": "USD",
+  "direction": "outbound-api",
+  "answered_by": null,
+  "annotation": null,
+  "api_version": "2010-04-01",
+  "caller_name": null,
+  "date_created": "Wed, 15 Nov 2023 10:00:00 +0000",
+  "date_updated": "Wed, 15 Nov 2023 10:00:00 +0000",
+  "forwarded_from": null,
+  "group_sid": null,
+  "parent_call_sid": null,
+  "phone_number_sid": "PNtest1234567890abcdef1234567890ab",
+  "queue_time": "0",
+  "trunk_sid": null,
+  "subresource_uris": {
+    "notifications": "/2010-04-01/Accounts/ACtest1234567890abcdef1234567890abcdef/Calls/CAtest1234567890abcdef1234567890ab/Notifications.json",
+    "recordings": "/2010-04-01/Accounts/ACtest1234567890abcdef1234567890abcdef/Calls/CAtest1234567890abcdef1234567890ab/Recordings.json",
+    "events": "/2010-04-01/Accounts/ACtest1234567890abcdef1234567890abcdef/Calls/CAtest1234567890abcdef1234567890ab/Events.json"
+  },
+  "uri": "/2010-04-01/Accounts/ACtest1234567890abcdef1234567890abcdef/Calls/CAtest1234567890abcdef1234567890ab.json"
+}

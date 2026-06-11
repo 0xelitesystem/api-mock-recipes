@@ -1,0 +1,26 @@
+{
+  "id": "msg_01TestToolXyz789",
+  "type": "message",
+  "role": "assistant",
+  "model": "claude-sonnet-4-5-20250929",
+  "content": [
+    {
+      "type": "text",
+      "text": "I'll check the weather for Paris."
+    },
+    {
+      "type": "tool_use",
+      "id": "toolu_01TestTool",
+      "name": "get_weather",
+      "input": {
+        "city": "Paris"
+      }
+    }
+  ],
+  "stop_reason": "tool_use",
+  "stop_sequence": null,
+  "usage": {
+    "input_tokens": 412,
+    "output_tokens": 73
+  }
+}
