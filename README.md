@@ -112,6 +112,10 @@ These are copy-paste recipes. Open the file, take what you need.
 - [`secrets-scanner-bookmarklet`](https://github.com/0xelitesystem/secrets-scanner-bookmarklet) - find leaked keys in repos
 - [`stack-trace-cleaner`](https://github.com/0xelitesystem/stack-trace-cleaner) - clean up stack traces when API mocks fail
 
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
+
 ## License
 
 MIT. Use the recipes in any project, commercial or personal. No attribution required.
