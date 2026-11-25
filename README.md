@@ -102,7 +102,7 @@ These are copy-paste recipes. Open the file, take what you need.
 
 ## Related repos
 
-- [`webhook-inspector`](https://github.com/0xelitesystem/webhook-inspector) - for testing incoming webhooks from these providers
+- [`service-worker-webhook-inspector`](https://github.com/0xelitesystem/service-worker-webhook-inspector) - for testing incoming webhooks from these providers
 - [`multi-provider-webhook-verifier`](https://github.com/0xelitesystem/multi-provider-webhook-verifier) - signature verification helpers for Stripe, GitHub, SendGrid
 - [`retry-after-probe`](https://github.com/0xelitesystem/retry-after-probe) - test your own API's rate limit handling
 - [`openapi-changelog-diff`](https://github.com/0xelitesystem/openapi-changelog-diff) - track API changes that will break your mocks
