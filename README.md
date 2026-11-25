@@ -104,7 +104,7 @@ These are copy-paste recipes. Open the file, take what you need.
 
 - [`webhook-inspector`](https://github.com/0xelitesystem/webhook-inspector) - for testing incoming webhooks from these providers
 - [`webhook-signature-verifier`](https://github.com/0xelitesystem/webhook-signature-verifier) - signature verification helpers for Stripe, GitHub, SendGrid
-- [`rate-limit-tester`](https://github.com/0xelitesystem/rate-limit-tester) - test your own API's rate limit handling
+- [`retry-after-probe`](https://github.com/0xelitesystem/retry-after-probe) - test your own API's rate limit handling
 - [`openapi-changelog-diff`](https://github.com/0xelitesystem/openapi-changelog-diff) - track API changes that will break your mocks
 - [`jwt-inspector`](https://github.com/0xelitesystem/jwt-inspector) - decode JWTs from API responses
 - [`env-var-checker`](https://github.com/0xelitesystem/env-var-checker) - check your test environment has the right keys
