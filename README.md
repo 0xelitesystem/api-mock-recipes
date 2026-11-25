@@ -106,8 +106,8 @@ These are copy-paste recipes. Open the file, take what you need.
 - [`multi-provider-webhook-verifier`](https://github.com/0xelitesystem/multi-provider-webhook-verifier) - signature verification helpers for Stripe, GitHub, SendGrid
 - [`retry-after-probe`](https://github.com/0xelitesystem/retry-after-probe) - test your own API's rate limit handling
 - [`openapi-changelog-diff`](https://github.com/0xelitesystem/openapi-changelog-diff) - track API changes that will break your mocks
-- [`jwt-inspector`](https://github.com/0xelitesystem/jwt-inspector) - decode JWTs from API responses
-- [`env-var-checker`](https://github.com/0xelitesystem/env-var-checker) - check your test environment has the right keys
+- [`jwt-verify-in-browser`](https://github.com/0xelitesystem/jwt-verify-in-browser) - decode JWTs from API responses
+- [`env-example-drift-check`](https://github.com/0xelitesystem/env-example-drift-check) - check your test environment has the right keys
 - [`api-security-audit-checklist`](https://github.com/0xelitesystem/api-security-audit-checklist) - audit your API client code
 - [`secrets-scanner-bookmarklet`](https://github.com/0xelitesystem/secrets-scanner-bookmarklet) - find leaked keys in repos
 - [`stack-trace-cleaner`](https://github.com/0xelitesystem/stack-trace-cleaner) - clean up stack traces when API mocks fail
